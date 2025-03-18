@@ -1,2 +1,7 @@
 Írj ide valamit
+<<<<<<< HEAD
 Első
+=======
+
+helo
+>>>>>>> origin/main
