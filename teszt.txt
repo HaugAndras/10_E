@@ -1,5 +1,16 @@
 Írj ide valamit
+<<<<<<< HEAD
+Első
+=======
 
 helo
+<<<<<<< HEAD
 
 Jó reggelt!
+=======
+<<<<<<< ours
+>>>>>>> origin/main
+=======
+szija
+>>>>>>> theirs
+>>>>>>> origin/main
