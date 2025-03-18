@@ -4,4 +4,8 @@ Első
 =======
 
 helo
+<<<<<<< ours
 >>>>>>> origin/main
+=======
+szija
+>>>>>>> theirs
